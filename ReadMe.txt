@@ -1,0 +1,1 @@
+As you can notice, the car images are not displaying, that is because the API stopped working. Thank You!
